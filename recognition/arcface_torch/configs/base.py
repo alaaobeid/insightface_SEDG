@@ -50,11 +50,11 @@ config.seed = 2048
 config.num_workers = 2
 
 # WandB Logger
-config.wandb_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+config.wandb_key = "b986aaa7490b21fe3dd9fd2d6a6ce30b453df498"
 config.suffix_run_name = None
 config.using_wandb = False
-config.wandb_entity = "entity"
-config.wandb_project = "project"
+config.wandb_entity = "nobias"
+config.wandb_project = "sedg"
 config.wandb_log_all = True
 config.save_artifacts = False
 config.wandb_resume = False # resume wandb run: Only if the you wand t resume the last run that it was interrupted
